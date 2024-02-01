@@ -1,4 +1,4 @@
 package com.example.thetarlords;
 
-public class Circle extends Shape {
+public class Square extends Shape {
 }
